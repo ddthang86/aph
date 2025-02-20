@@ -1,0 +1,36 @@
+.elementor-106 .elementor-element.elementor-element-e1175bd {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    --border-top-width: 1px;
+    --border-right-width: 0px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #FFFFFF;
+    --border-color: #FFFFFF;
+}
+
+.elementor-106 .elementor-element.elementor-element-e1175bd:not(.elementor-motion-effects-element-type-background),
+.elementor-106 .elementor-element.elementor-element-e1175bd>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #C80000;
+}
+
+.elementor-106 .elementor-element.elementor-element-e1175bd,
+.elementor-106 .elementor-element.elementor-element-e1175bd::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-106 .elementor-element.elementor-element-ebee9aa {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+}
